@@ -1,0 +1,84 @@
+*{margin: 0%;
+padding: 0%;}
+
+.t1{color: black;
+float: left;
+font-size: 30px;
+border-radius: 100%;
+background: red;}
+
+ul{float: right;
+list-style: none;}
+
+li{float: left;
+padding: 10px;
+font-size: 22px;
+color: black;
+border-radius: 20%;}
+
+nav{height: 67px;
+background-color: gold;}
+a{text-decoration: none;
+color: black;}
+
+.btn1{border-radius: 100%;
+background: red;
+color: white;
+padding: 5px;}
+
+.content{
+	height: 500px;
+	background-image: url("carrrrr.jpeg");
+text-align: center;
+background-size: cover;}
+.c1{padding: 5px;}
+.tcontent{color: green;
+font-size: 40px;}
+.p1{color: black;
+font-size: 18px;
+margin-top: 6px;}
+/* sexion 2 */
+.t2{
+	height: 30px;
+	background-size: cover;
+	text-align: center;
+	background-color: yellow;
+	font-size: 24px;
+	color: grey;}
+	.p3{
+	background-image: url(ista.jpeg);
+background-size: cover;	
+color: green;
+height: 500px;
+font-size: 30px;
+text-align: center;
+}
+.t3{
+	background-color: grey;
+	text-align: center;
+	background-size: 40px;
+}
+.btn3{
+	background: green;
+	border-radius: 60%;
+	color: black;
+	padding: 10px;
+	margin-left: 150px;
+}
+.form1{
+	width: 30%;
+	float: left;
+	height: 400PX;
+	width: 600PX;
+	background-color: gold;}
+	footer{
+		background-color: grey;
+		font-size: 20PX;
+		text-align: center;
+		color: black;
+		background-size: 50PX;
+	}
+.a1{margin-left: 23PX;}
+.a3{
+	margin-left: 7PX;
+}
